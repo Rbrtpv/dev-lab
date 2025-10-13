@@ -1,0 +1,3 @@
+[submodule "react-root/react-dev/planner"]
+	path = react-root/react-dev/planner
+	url = https://github.com/rbrtpv/planner.git
